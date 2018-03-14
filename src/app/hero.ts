@@ -1,4 +1,4 @@
 export class Hero {
-  id: 1;
+  id: number;
   name: 'Windstorm';
 }
